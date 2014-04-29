@@ -1,0 +1,6 @@
+development:
+  adapter: postgresql
+  database: jazzy_todo_development
+test:
+  adapter: postgresql
+  database: jazzy_todo_test
